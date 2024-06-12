@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+This is the beginning of the movie.
+
+2
+00:00:02,500 --> 00:00:05,000
+The main character enters the room.
+
+3
+00:00:05,500 --> 00:00:08,000
+"Hello, everyone," she said.
+
+4
+00:00:08,500 --> 00:00:10,000
+Everyone looked at her.
